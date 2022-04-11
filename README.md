@@ -11,7 +11,7 @@ Totebaghackathon-Naoya-Natsumi
 
 ・１チーム２名で、チーミング。そのうち１名はかならず現地参加すること。
 
-・Mabox Studio を使ってデザイン。
+・Mapbox Studio を使ってデザイン。
 
 ・但し、日本以外のエリア前提。
 
