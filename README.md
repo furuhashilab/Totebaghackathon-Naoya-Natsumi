@@ -17,6 +17,6 @@ Totebaghackathon-Naoya-Natsumi
 
 ・提出物は 2000x3000 ピクセル程度のJPG画像。
 
-・4/10 23:59:59 JST 迄に、試作品をhttps://github.com/furuhashilab/README/issues/33 にアップ。トートバック印刷機の事前の動作チェックを行う予定です。
+・4/10 23:59:59 JST 迄に、試作品をhttps://github.com/furuhashilab/README/issues/33 にアップ。トートバック印刷機の事前の動作チェックを行う予定。
 
 ・4/12 当日 １チーム５分のLT発表。
