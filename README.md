@@ -1,7 +1,7 @@
 Totebaghackathon-Naoya-Natsumi
 # 4月「地図ｘトートバック」ハッカソン
 
-## 尚哉・なつみチーム
+## 植松尚哉・葉賀なつみチーム
 
 ・4/12 17:00〜20:00 ＠代官山 ROOTOTE、
 集合場所： MONKEY CAFE D.K.Y. https://goo.gl/maps/w1mPL7MDNvEh3YSQ9
