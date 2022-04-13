@@ -23,8 +23,8 @@ Totebaghackathon-Naoya-Natsumi
 
 
 ---
-・メディウム
+### ・メディウム
 https://medium.com/furuhashilab/%EF%BC%94%E6%9C%88%E3%83%AB%E3%83%BC%E3%83%88%E3%83%BC%E3%83%88%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3-39d5be03d468
 
-・発表スライド
+### ・発表スライド
 https://docs.google.com/presentation/d/16b2hQvBiWFweXeKV-QkecrMb1S3bfZf-7tsCIHXsPwk/edit#slide=id.p
