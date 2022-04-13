@@ -20,3 +20,11 @@ Totebaghackathon-Naoya-Natsumi
 ・4/10 23:59:59 JST 迄に、試作品をhttps://github.com/furuhashilab/README/issues/33 にアップ。トートバック印刷機の事前の動作チェックを行う予定。
 
 ・4/12 当日 １チーム５分のLT発表。
+
+
+---
+・メディウム
+https://medium.com/furuhashilab/%EF%BC%94%E6%9C%88%E3%83%AB%E3%83%BC%E3%83%88%E3%83%BC%E3%83%88%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3-39d5be03d468
+
+・発表スライド
+https://docs.google.com/presentation/d/16b2hQvBiWFweXeKV-QkecrMb1S3bfZf-7tsCIHXsPwk/edit#slide=id.p
